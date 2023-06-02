@@ -9,6 +9,7 @@ And to use GitBash and Github
 
 To accomplish Sementic elements usage in HTML page
 
+![image](https://github.com/SanjeethTharmarajah/challenge1-refactory/assets/130941252/db186528-bc67-4c82-9500-4e4557c76c99)
 
 
 ## Acceptance Criteria
