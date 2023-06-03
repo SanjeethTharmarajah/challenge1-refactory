@@ -24,3 +24,14 @@ Add description to alt attributes in images
 Add a concise, descriptive title
 ```
 
+## Acheivements
+
+```
+Changed Div tags to semantic HTML elements to given webpage
+
+Added Sementic Elements to  images
+
+Added description to alt attributes in images
+
+Added a concise, descriptive title
+```
